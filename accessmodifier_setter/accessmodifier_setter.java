@@ -4,8 +4,8 @@ class Employee{
     private int id;
     private String name;
 
-    public void setname(String nn){
-        name = nn;
+    public void setname(String n){
+        name = n;
     }
     public String getname(){
         return name;

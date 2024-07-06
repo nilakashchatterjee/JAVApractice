@@ -1,7 +1,7 @@
 package abstract_interfacing;
 abstract class first{
    public first(){
-       System.out.println("Consttuctor of this class");
+       System.out.println("Constructor of this class");
    }
    public void talk(){
        System.out.println("hello to everyone");
